@@ -30,3 +30,4 @@ print(f"多模态向量维度: {multi_emb_1.shape}")
 print(f"图像向量维度: {img_emb_1.shape}")
 print(f"多模态向量示例 (前10个元素): {multi_emb_1[0][:10]}")
 print(f"图像向量示例 (前10个元素):   {img_emb_1[0][:10]}")
+
